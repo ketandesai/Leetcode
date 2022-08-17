@@ -4,6 +4,7 @@
 # Ignore Gradle build output directory
 build
 
+.idea
 .idea/gradle.xml
 .idea/misc.xml
 .idea/jarRepositories.xml
